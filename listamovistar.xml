@@ -20,8 +20,7 @@
 
 <item>
 <title>UFC</title>
-<f4m> #EXTINF:-1,ES:BEIN.LA.LIGA2
-http://iptv.electro-clair.net:8000/live/user2/user2/2588.ts</f4m>
+<f4m>http://iptv.electro-clair.net:8000/live/user2/user2/2588.ts</f4m>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
